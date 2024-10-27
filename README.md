@@ -1,2 +1,2 @@
 # Library-system
-It's for librarian to know the sold books and rental books and available books and the income of the library 
+It's a full stack django project that shows the librarian the sold books and rental books and available book and the income of the library
